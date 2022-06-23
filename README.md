@@ -1,2 +1,2 @@
 # sequelizer
-Simple node.js module to define Sequelize.js models
+Simple node.js module to define Sequelize.js database models for PostgreSql.
